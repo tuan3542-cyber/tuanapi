@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@ulixee/hero": "^2.0.0-alpha.31",
+    "axios": "^1.9.0",
+    "cheerio": "^1.1.2",
+    "colors": "^1.4.0",
+    "express": "^5.1.0",
+    "gradient-string": "^1.2.0",
+    "hpack": "^1.0.0",
+    "set-cookie-parser": "^2.7.1",
+    "socks": "^2.8.4"
+  }
+}
