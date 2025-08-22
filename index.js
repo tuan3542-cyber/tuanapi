@@ -254,7 +254,7 @@ app.get('/account', (req, res) => {
     })
 })
 app.get("/uploadproxy", (req, res) => {
-    const url = "https://raw.githubusercontent.com/tuan3542-cyber/Source-Scan-Proxy/refs/heads/main/proxy.txt";
+    const url = "tukiemlinkproxy";
     const file = fs.createWriteStream("proxy.txt");
   
     https.get(url, (response) => {
